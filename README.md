@@ -1,3 +1,6 @@
+usuario principal para login 
+user: Bryant
+password: 12341234
 Crear 2 vistas para el frontend con las siguientes responsabilidades:
 
 Una pantalla para Login.
